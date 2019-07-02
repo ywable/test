@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("hello maven");
         System.out.println("hello maven -- by test");
+        System.out.println("hello delete");
     }
 }
